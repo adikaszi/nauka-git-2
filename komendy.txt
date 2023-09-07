@@ -1,1 +1,1 @@
-git ls-files *.html | xargs html-validate --format=unix
+npm exec html-validate *.html
